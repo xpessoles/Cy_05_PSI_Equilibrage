@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  27 JUN 2019 22:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  27 JUN 2019 23:09
 entering extended mode
 **./Cycle_05_Livret_Ch_01_Equilibrage.tex
 (Cycle_05_Livret_Ch_01_Equilibrage.tex
@@ -2190,12 +2190,18 @@ ur.jpeg  used on input line 77.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 )
-<../../style/png/logoCC.png, id=42, 88.33pt x 31.11626pt>
+Overfull \hbox (5960.16843pt too wide) in paragraph at lines 20--84
+[][][][]\T1/mdput/m/n/10 (-20) 8[][][]9[][][]9[][][]9[][][]9[][][]9[][][]9[][][
+]9[][][]9[][][]9[][][]13[][][]13[][][]13[][][]13[][][]13[][][]13[][][]13[][][]1
+4[][][]14[][][]14[][][]14 
+ []
+
+<../../style/png/logoCC.png, id=63, 88.33pt x 31.11626pt>
 File: ../../style/png/logoCC.png Graphic file (type png)
 <use ../../style/png/logoCC.png>
 Package pdftex.def Info: ../../style/png/logoCC.png  used on input line 91.
 (pdftex.def)             Requested size: 56.9055pt x 20.04631pt.
- [1
+[1
 
 {C:/Users/xpess/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 design size mismatch in local font md-utbo8t in virtual font mdputbo8t.vf ignor
@@ -2215,24 +2221,24 @@ LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 (Font)              scaled to size 6.58002pt on input line 74.
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 (Font)              scaled to size 4.70001pt on input line 74.
-<../../Chapitre_01_Equilibrage/Cours/images/req_pompe.pdf, id=75, 447.92343pt x
- 311.66437pt>
+<../../Chapitre_01_Equilibrage/Cours/images/req_pompe.pdf, id=108, 447.92343pt 
+x 311.66437pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/req_pompe.pdf Graphic file (ty
 pe pdf)
 <use ../../Chapitre_01_Equilibrage/Cours/images/req_pompe.pdf>
 Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cours/images/req_pompe.p
 df  used on input line 77.
 (pdftex.def)             Requested size: 422.7243pt x 294.13918pt.
-<../../Chapitre_01_Equilibrage/Cours/images/rotor_pompe.jpg, id=76, 520.94624pt
- x 545.03625pt>
+<../../Chapitre_01_Equilibrage/Cours/images/rotor_pompe.jpg, id=109, 520.94624p
+t x 545.03625pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/rotor_pompe.jpg Graphic file (
 type jpg)
 <use ../../Chapitre_01_Equilibrage/Cours/images/rotor_pompe.jpg>
 Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cours/images/rotor_pompe
 .jpg  used on input line 85.
 (pdftex.def)             Requested size: 145.11053pt x 151.81903pt.
-<../../Chapitre_01_Equilibrage/Cours/images/guidage_pompe.jpg, id=77, 861.2175p
-t x 745.78625pt>
+<../../Chapitre_01_Equilibrage/Cours/images/guidage_pompe.jpg, id=110, 861.2175
+pt x 745.78625pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/guidage_pompe.jpg Graphic file
  (type jpg)
 <use ../../Chapitre_01_Equilibrage/Cours/images/guidage_pompe.jpg>
@@ -2248,7 +2254,7 @@ LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
  [2
 design size mismatch in local font md-utro8t in virtual font mdputro8t.vf ignor
 ed. <../../Chapitre_01_Equilibrage/Cours/images/req_pompe.pdf>]
-<../../Chapitre_01_Equilibrage/Cours/images/figure_presentation.pdf, id=111, 75
+<../../Chapitre_01_Equilibrage/Cours/images/figure_presentation.pdf, id=143, 75
 3.39267pt x 598.73688pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/figure_presentation.pdf Graphi
 c file (type pdf)
@@ -2256,7 +2262,7 @@ c file (type pdf)
 Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cours/images/figure_pres
 entation.pdf  used on input line 108.
 (pdftex.def)             Requested size: 189.47946pt x 150.57918pt.
-<../../Chapitre_01_Equilibrage/Cours/images/sc.png, id=112, 282.05376pt x 232.8
+<../../Chapitre_01_Equilibrage/Cours/images/sc.png, id=144, 282.05376pt x 232.8
 7pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/sc.png Graphic file (type png)
 
@@ -2281,7 +2287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--159
 
  []
 
-<../../style/png/logo_lycee.png, id=113, 329.23pt x 265.99374pt>
+<../../style/png/logo_lycee.png, id=145, 329.23pt x 265.99374pt>
 File: ../../style/png/logo_lycee.png Graphic file (type png)
 <use ../../style/png/logo_lycee.png>
 Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 175
@@ -2306,7 +2312,7 @@ hapitre_01_Equilibrage/Cours/images/sc.png (PNG copy)>]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 298.
-<../../Chapitre_01_Equilibrage/Cours/images/effort.pdf, id=149, 521.54045pt x 3
+<../../Chapitre_01_Equilibrage/Cours/images/effort.pdf, id=181, 521.54045pt x 3
 83.35822pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/effort.pdf Graphic file (type 
 pdf)
@@ -2314,7 +2320,7 @@ pdf)
 Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cours/images/effort.pdf 
  used on input line 312.
 (pdftex.def)             Requested size: 211.36215pt x 155.35866pt.
-<../../Chapitre_01_Equilibrage/Cours/images/moment.pdf, id=150, 519.40852pt x 3
+<../../Chapitre_01_Equilibrage/Cours/images/moment.pdf, id=182, 519.40852pt x 3
 91.66124pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/moment.pdf Graphic file (type 
 pdf)
@@ -2372,8 +2378,8 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 367.
-<../../Chapitre_01_Equilibrage/Cours/images/illustration_equilibrage.png, id=15
-7, 1426.32875pt x 716.6775pt>
+<../../Chapitre_01_Equilibrage/Cours/images/illustration_equilibrage.png, id=18
+9, 1426.32875pt x 716.6775pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/illustration_equilibrage.png G
 raphic file (type png)
 <use ../../Chapitre_01_Equilibrage/Cours/images/illustration_equilibrage.png>
@@ -2387,7 +2393,7 @@ Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 382
 (pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
  [5 <../../Chapitre_01_Equilibrage/Cours/images/effort.pdf> <../../Chapitre_01_
 Equilibrage/Cours/images/moment.pdf>]
-<../../Chapitre_01_Equilibrage/Cours/images/figure-masse-roue.pdf, id=190, 1168
+<../../Chapitre_01_Equilibrage/Cours/images/figure-masse-roue.pdf, id=222, 1168
 .365pt x 754.70923pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/figure-masse-roue.pdf Graphic 
 file (type pdf)
@@ -2418,7 +2424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 510--511
 
  []
 
-<../../Chapitre_01_Equilibrage/Cours/images/machine_equilibrage.jpeg, id=589, 2
+<../../Chapitre_01_Equilibrage/Cours/images/machine_equilibrage.jpeg, id=621, 2
 00.75pt x 281.05pt>
 File: ../../Chapitre_01_Equilibrage/Cours/images/machine_equilibrage.jpeg Graph
 ic file (type jpg)
@@ -2427,21 +2433,391 @@ Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cours/images/machine_equ
 ilibrage.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 63.40605pt x 88.76707pt.
 )
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 26.
+
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [7 <../../Chapitre_01_Equilibrage/Cours/images/machine_equilibrage.jpeg>]
+(../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/Cy_05_01_Applicati
+on_01_Rotor.tex (../../style/new_pagegarde.tex
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00.png,
+ id=630, 621.32124pt x 793.96625pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/fig_00.png  used on input line 170.
+(pdftex.def)             Requested size: 56.90463pt x 72.71382pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 176.
+LaTeX Font Info:    Font shape `T1/pag/b/it' in size <9> not available
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 180.
+LaTeX Font Info:    Font shape `T1/pag/db/it' in size <9> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 180.
+LaTeX Font Info:    Font shape `T1/pag/b/it' in size <8> not available
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 180.
+LaTeX Font Info:    Font shape `T1/pag/db/it' in size <8> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 180.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 186.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 234.
+LaTeX Font Info:    Font shape `T1/pag/b/fsc' in size <10> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 241.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 244.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `OT1/cmtt/m/n' will be
+(Font)              scaled to size 8.56006pt on input line 262.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 262.
+)
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_01.png,
+ id=631, 761.84625pt x 174.6525pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_01
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_01.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/fig_01.png  used on input line 69.
+(pdftex.def)             Requested size: 236.84843pt x 54.29628pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_02.png,
+ id=632, 495.8525pt x 231.86626pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_02
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_02.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/fig_02.png  used on input line 95.
+(pdftex.def)             Requested size: 236.84843pt x 110.75322pt.
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_03.png,
+ id=633, 336.25626pt x 237.88875pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_03
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_03.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/fig_03.png  used on input line 107.
+(pdftex.def)             Requested size: 236.84843pt x 167.56274pt.
+
+Package hyperref Warning: bookmark level for unknown exo defaults to 0.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+
+ []
+
+[8 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00.p
+ng (PNG copy)> <../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/ima
+ges/fig_01.png (PNG copy)> <../../Chapitre_01_Equilibrage/Cy_05_01_Application_
+01_Rotor/images/fig_02.png (PNG copy)> <../../Chapitre_01_Equilibrage/Cy_05_01_
+Application_01_Rotor/images/fig_03.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 6.58002pt on input line 176.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 4.70001pt on input line 176.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 5.64001pt on input line 230.
+
+Overfull \hbox (55.18317pt too wide) in paragraph at lines 232--238
+[]$\OML/mdput/m/it/8 m[] [][] :$ 
+ []
+
+)
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 38.
+
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [9]
+(../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/Cy_05_01_Applicati
+on_01_Rotor.tex (../../style/new_pagegarde.tex
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/fig_00.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/fig_00.png  used on input line 170.
+(pdftex.def)             Requested size: 56.90463pt x 72.71382pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 176.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 186.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 234.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 244.
+)
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_01.png,
+ id=661, 808.01875pt x 1152.305pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_01
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_01.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/cor_01.png  used on input line 255.
+(pdftex.def)             Requested size: 386.95897pt x 551.83417pt.
+ [10]
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_02.png,
+ id=667, 768.8725pt x 178.6675pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_02
+.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_02.
+png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_
+Rotor/images/cor_02.png  used on input line 258.
+(pdftex.def)             Requested size: 386.95897pt x 89.9224pt.
+)
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 48.
+
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [11 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/images/cor_01
+.png (PNG copy)> <../../Chapitre_01_Equilibrage/Cy_05_01_Application_01_Rotor/i
+mages/cor_02.png (PNG copy)>]
+(../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/Cy_05_01_A
+pplication_02_Centrifugeuse.tex (../../style/new_pagegarde.tex
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/fig
+_01.png, id=672, 205.0059pt x 176.3388pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_01.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_01.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_01.png  used on input line 170.
+(pdftex.def)             Requested size: 64.01826pt x 55.06537pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 176.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 186.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 234.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 244.
+)
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_01.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_01.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_01.png  used on input line 69.
+(pdftex.def)             Requested size: 236.84843pt x 203.73247pt.
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/fig
+_02.png, id=673, 278.4804pt x 122.1363pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_02.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_02.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_02.png  used on input line 85.
+(pdftex.def)             Requested size: 236.84843pt x 103.8797pt.
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/fig
+_03.png, id=674, 258.2448pt x 187.902pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_03.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_03.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_03.png  used on input line 101.
+(pdftex.def)             Requested size: 236.84843pt x 172.33864pt.
+ [12 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_01.png> <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifuge
+use/images/fig_02.png>]
+Underfull \hbox (badness 5578) in paragraph at lines 121--122
+\T1/mdput/m/n/10 (+20) avec $\OML/mdput/m/it/10 R \OT1/mdput/m/n/10 (+20) = [] 
+[]$\T1/mdput/m/n/10 (+20) , ma-trice d'iner-tie $\OML/mdput/m/it/10 I[] [] \OT1
+/mdput/m/n/10 (+20) =
+ []
+
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/fig
+_04.png, id=685, 168.63pt x 134.904pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_04.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_04.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_04.png  used on input line 135.
+(pdftex.def)             Requested size: 236.84843pt x 189.48184pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.156 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.164 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.171 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.178 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.186 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.193 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.201 \subparagraph{}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{exo.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 \subparagraph{}
+                     
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 212
+.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [13 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_03.png> <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifuge
+use/images/fig_04.png>]pdfTeX warning (ext4): destination with the same identif
+ier (name{exo.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.213 \subparagraph{}
+                     )
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 60.
+
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [14]
+(../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/Cy_05_01_A
+pplication_02_Centrifugeuse.tex (../../style/new_pagegarde.tex
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/fig_01.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/fig_01.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/fig_01.png  used on input line 170.
+(pdftex.def)             Requested size: 64.01826pt x 55.06537pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 176.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 186.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 234.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 244.
+)
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/cor
+_01.png, id=699, 370.0224pt x 383.031pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_01.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/cor_01.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/cor_01.png  used on input line 239.
+(pdftex.def)             Requested size: 483.69687pt x 500.7281pt.
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/cor
+_02.png, id=700, 369.7815pt x 449.0376pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_02.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/cor_02.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/cor_02.png  used on input line 242.
+(pdftex.def)             Requested size: 483.69687pt x 587.41447pt.
+ [15 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_01.png (PNG copy)>]
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/cor
+_03.png, id=706, 369.5406pt x 500.3493pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_03.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/cor_03.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/cor_03.png  used on input line 245.
+(pdftex.def)             Requested size: 483.69687pt x 654.92796pt.
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 246
+.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [16 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_02.png (PNG copy)>]
+<../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images/cor
+_04.png, id=711, 369.7815pt x 126.7134pt>
+File: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_04.png Graphic file (type png)
+<use ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/images
+/cor_04.png>
+Package pdftex.def Info: ../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_
+Centrifugeuse/images/cor_04.png  used on input line 248.
+(pdftex.def)             Requested size: 483.69687pt x 165.7618pt.
+File: ../../style/png/logo_lycee.png Graphic file (type png)
+<use ../../style/png/logo_lycee.png>
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 249
+.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [17 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_03.png (PNG copy)>])
 \tf@ptc=\write6
 \openout6 = `Cycle_05_Livret_Ch_01_Equilibrage.ptc'.
 
 File: ../../style/png/logo_lycee.png Graphic file (type png)
 <use ../../style/png/logo_lycee.png>
-Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 72.
+Package pdftex.def Info: ../../style/png/logo_lycee.png  used on input line 98.
 
 (pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
- [7 <../../Chapitre_01_Equilibrage/Cours/images/machine_equilibrage.jpeg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
-
-(Cycle_05_Livret_Ch_01_Equilibrage.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 72.
+ [18 <../../Chapitre_01_Equilibrage/Cy_05_01_Application_02_Centrifugeuse/image
+s/cor_04.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+ (Cycle_05_Livret_Ch_01_Equilibrage.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 98.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2453,35 +2829,37 @@ Package logreq Info: Writing requests to 'Cycle_05_Livret_Ch_01_Equilibrage.run
 .xml'.
 \openout1 = `Cycle_05_Livret_Ch_01_Equilibrage.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 45109 strings out of 492902
- 883961 string characters out of 3133550
- 1466082 words of memory out of 3000000
- 48044 multiletter control sequences out of 15000+200000
- 792224 words of font info for 340 fonts, out of 3000000 for 9000
+ 45564 strings out of 492902
+ 895136 string characters out of 3133550
+ 1496029 words of memory out of 3000000
+ 48216 multiletter control sequences out of 15000+200000
+ 848297 words of font info for 511 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,29n,79p,1030b,1962s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc}{C:/Program Fil
-es/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
+KTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/mathdesign/mdput/md-utr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/math
 design/mdput/md-utr7t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/m
 dput/md-utr7v.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-
-utr7y.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utri7m.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdpgd/md-utrma.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/
-utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/avantgar/uagko8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/zapfding/uzdr.pfb>
-Output written on Cycle_05_Livret_Ch_01_Equilibrage.pdf (7 pages, 3274929 bytes
-).
+utr7y.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utr8t.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utri7m.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utri8t.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/mathdesign/mdpgd/md-utrma.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/u
+topia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantg
+ar/uagko8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on Cycle_05_Livret_Ch_01_Equilibrage.pdf (18 pages, 5664895 byte
+s).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 93400 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 909 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 107462 words of extra memory for PDF output out of 128383 (max. 10000000)
 
