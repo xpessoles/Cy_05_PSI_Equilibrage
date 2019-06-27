@@ -1,55 +1,90 @@
-%%%% Paramétrage du TD %%%%
-\def\xxactivite{ \ifprof \normalsize{Application 1 -- Corrigé } \else  Application 1 \fi} % \normalsize \vspace{-.4cm}
-\def\xxauteur{\textsl{Xavier Pessoles}}
+\documentclass[10pt,fleqn]{article} % Default font size and left-justified equations
+\usepackage[%
+    pdftitle={Modélisation dynamique},
+    pdfauthor={Xavier Pessoles}]{hyperref}
 
+    
+\input{style/new_style}
+\input{style/macros_SII}
+\usepackage{multicol}
+\usepackage{siunitx}
+%\usepackage{picins}
+\fichetrue
+%\fichefalse
+
+\proftrue
+\proffalse
+
+\tdtrue
+%\tdfalse
+
+\courstrue
+\coursfalse
+
+
+\def\classe{\textsf{PSI$\star$ -- MP}}
+\def\xxnumpartie{Cycle 06}
+\def\xxpartie{Équilibrage des solides en rotation}
 
 \def\xxnumchapitre{Chapitre 1 \vspace{.2cm}}
-\def\xxchapitre{\hspace{.12cm} Équilibrage des solides en rotation}
+\def\xxchapitre{\hspace{.12cm} }
 
-\def\xxcompetences{%
-%\textsl{%
-%\textbf{Savoirs et compétences :}\\
-%\begin{itemize}[label=\ding{112},font=\color{ocre}] 
-%\item \textit{Res1.C2} : principe fondamental de la dynamique;
-%\item \textit{Res1.C1.SF1} : proposer une démarche permettant la détermination de la loi de mouvement.
-%\end{itemize}
-%}
-}
+\def\discipline{Sciences \\Industrielles de \\ l'Ingénieur}
+\def\xxtete{Sciences Industrielles de l'Ingénieur}
+
+
 
 \def\xxtitreexo{Application 01}
 \def\xxsourceexo{\hspace{.2cm} \footnotesize{Éditions Vuibert}}
 
+
+\def\xxposongletx{2}
+\def\xxposonglettext{1.45}
+\def\xxposonglety{20}
+%\def\xxonglet{Part. 1 -- Ch. 3}
+\def\xxonglet{\textsf{Cycle 05}}
+
+\def\xxactivite{Application}
+\def\xxauteur{\textsl{Éditions Vuibert}}
+
+\def\xxcompetences{%
+\textsl{%
+\textbf{Savoirs et compétences :}\\
+Une analyse de la géométrie et de la répartition de masse du rotor et de son défaut permet de déduire les actions mécaniques dans la liaison pivot et ainsi déterminer les \textbf{conditions évitant les vibrations}. Le calcul détaillé des éléments de cinétiques permet ensuite de \textbf{quantifier l'influence du défaut sur les vibrations}.
+%\begin{itemize}[label=\ding{112},font=\color{ocre}] 
+%\item \textit{Rés -- C1.1 :} Loi entrée sortie géométrique et cinématique -- Fermeture géométrique.
+%\end{itemize}
+%
+%\noindent \textit{Mod2 -- C4.1 :} Représentation par schéma bloc.
+}}
+
 \def\xxfigures{
-\includegraphics[width=.4\linewidth]{fig_00}
+\includegraphics[width=.45\linewidth]{images/fig_00}
 }%figues de la page de garde
 
 
-\iflivret
-\input{../../style/new_pagegarde}
-\else
-\input{../../style/new_pagegarde}
-\fi
-\setlength{\columnseprule}{.1pt}
+\def\xxpied{%
+Cycle 06 -- Équilibrage des solides en rotation\\% afin de valider leurs performances.\\
+Chapitre 1 -- \xxactivite%
+}
 
+\setcounter{secnumdepth}{5}
+%---------------------------------------------------------------------------
+
+\usepackage{pgfplots}
+\begin{document}
+\def\pathfig{images}
+%\chapterimage{png/Fond_Cin}
+\input{style/new_pagegarde}
+\vspace{4.5cm}
 \pagestyle{fancy}
 \thispagestyle{plain}
-
-\ifprof
-\vspace{5.5cm}
-\else
-\vspace{4.9cm}
-\fi
 
 \def\columnseprulecolor{\color{ocre}}
 \setlength{\columnseprule}{0.4pt} 
 
-%%%%%%%%%%%%%%%%%%%%%%%
+\def\pathfig{images}
 
-\setcounter{exo}{0}
-
-
-\ifprof
-\else
 \begin{multicols}{2}
 
 
@@ -247,16 +282,28 @@ $m_r
 \end{enumerate}
 \end{multicols}
 
-\fi
+\newpage
 
+\begin{center}
+\includegraphics[width=\linewidth]{images/cor_01.png}
+\end{center}
+\begin{center}
+\includegraphics[width=\linewidth]{images/cor_02.png}
+\end{center}
+
+\end{document}
+
+
+
+\begin{center}
+\includegraphics[width=\linewidth]{images/fig_01.png}
+\end{center}
+
+
+\subparagraph{}
+\textit{}
 \ifprof
+\begin{corrige}
+\end{corrige}\else\fi
 
-\begin{center}
-\includegraphics[width=.8\linewidth]{images/cor_01.png}
-\end{center}
-\begin{center}
-\includegraphics[width=.8\linewidth]{images/cor_02.png}
-\end{center}
 
-\else
-\fi
