@@ -44,19 +44,20 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bcf</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bbl</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
-      <file>alphabetic.bbx</file>
       <file>standard.bbx</file>
+      <file>alphabetic.bbx</file>
       <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
+      <file>english.lbx</file>
       <file>french.lbx</file>
     </requires>
   </internal>
@@ -64,19 +65,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>Cy_06_Ch_01_Equlibrage_Solides_Rotation</infile>
+      <infile>Cycle_05_Livret_Ch_01_Equilibrage</infile>
     </cmdline>
     <input>
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bcf</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bcf</file>
     </input>
     <output>
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bbl</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bbl</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Cy_06_Ch_01_Equlibrage_Solides_Rotation.bcf</file>
+      <file>Cycle_05_Livret_Ch_01_Equilibrage.bcf</file>
     </requires>
     <requires type="editable">
       <file>bibliography.bib</file>
