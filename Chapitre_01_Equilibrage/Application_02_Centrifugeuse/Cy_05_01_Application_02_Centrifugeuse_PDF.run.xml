@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Cy_05_01_Application_01_Centrifugeuse.bcf</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>Cy_05_01_Application_01_Centrifugeuse.bbl</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -57,6 +57,7 @@
       <file>alphabetic.bbx</file>
       <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
+      <file>english.lbx</file>
       <file>french.lbx</file>
     </requires>
   </internal>
@@ -64,19 +65,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>Cy_05_01_Application_01_Centrifugeuse</infile>
+      <infile>Cy_05_01_Application_02_Centrifugeuse_PDF</infile>
     </cmdline>
     <input>
-      <file>Cy_05_01_Application_01_Centrifugeuse.bcf</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bcf</file>
     </input>
     <output>
-      <file>Cy_05_01_Application_01_Centrifugeuse.bbl</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Cy_05_01_Application_01_Centrifugeuse.bbl</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Cy_05_01_Application_01_Centrifugeuse.bcf</file>
+      <file>Cy_05_01_Application_02_Centrifugeuse_PDF.bcf</file>
     </requires>
     <requires type="editable">
       <file>bibliography.bib</file>
