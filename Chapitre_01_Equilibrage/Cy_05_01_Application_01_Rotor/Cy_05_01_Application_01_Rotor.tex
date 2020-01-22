@@ -76,7 +76,7 @@ Un extrait du diagramme des exigences est donné figure suivante.
 
 
 \begin{obj}
-L'objectif de l'exercice est de déterminer la relation entre les efforts engendrant des vibrations et le défaut d'alignement des axes. Le diagramme des exigences de la figure précédente%\ref{ex_rotor_exigences} 
+L'objectif de l'exercice est de déterminer la relation entre les efforts engendrant des vibrations et le défaut d'alignement des axes. Le diagramme des exigences de la figure précédente %\ref{ex_rotor_exigences} 
 définit les critères à respecter.
 \end{obj}
 
@@ -99,7 +99,7 @@ définit les critères à respecter.
 
 On associe un repère $R_1(O,\vect{x_1},\vect{y_0},\vect{z_1})$ à l'arbre en rotation. On note $\theta=(\vect{x_0},\vect{x_1})=(\vect{z_0},\vect{z_1})$ l'angle de rotation autour de l'axe $(O,\vect{y_0})$ de l'ensemble 1 par rapport au bâti fixe 0. La vitesse angulaire est notée $\omega=\dot{\theta}$. 
 
-Le solide 1 est constitué de 2 parties : un arbre de forme cylindrique de centre de gravité $O$, de diamètre $d=\SI{40}{mm}$ et de longueur $2L=\SI{400}{mm}$ et d'une roue conique en forme de tronc de cône plein de largeur $h=\SI{50}{mm}$ (la hauteur du cône correspondant est notée $H$), de diamètre de base $2r_1=\SI{280}{mm}$ et de diamètre de tête $2r_2=\SI{200}{mm}$. Les matériaux des deux pièces sont identiques. Le centre de gravité de la roue conique $G_r$ est tel que $\vect{OG_r}=a_r \vect{x_1}+b_r\vect{y_0}$ avec $a_r$ défaut admissible et $b_r=\SI{425}{mm}$. La masse du tronc de cône est notée $m_r=\SI{20}{kg}$ et celle de l'arbre $m_a=\SI{4}{kg}$ (on note $m=m_r+m_a\approx m_r$ la masse totale de la pièce 1).
+Le solide 1 est constitué de 2 parties : un arbre de forme cylindrique de centre de gravité $O$, de diamètre $d=\SI{40}{mm}$ et de longueur $2L=\SI{400}{mm}$ et d'une roue conique en forme de tronc de cône plein de largeur $h=\SI{50}{mm}$ (la hauteur du cône correspondant est notée $H$), de diamètre de base $2r_1=\SI{280}{mm}$ et de diamètre de tête $2r_2=\SI{200}{mm}$. Les matériaux des deux pièces sont identiques. Le centre de gravité de la roue conique $G_r$ est tel que $\vect{OG_r}=a_r \vect{x_1}+b_r\vect{y_0}$ avec $a_r$ défaut admissible et $b_r=\SI{425}{mm}$. La masse du tronc de cône est notée $m_r=\SI{20}{kg}$ et celle de l'arbre $m_a=\SI{4}{kg}$ (on note $m=m_r+m_a\approx m_r$ la masse totale de la pièce~1).
 
 
 
@@ -131,7 +131,7 @@ A & -F & -E \\
 -F & B & -D \\ 
 -E & -D & C
 \end{bmatrix}_{(\vect{x_1},\vect{y_0},\vect{z_1})}.$$
-L'action mécanique extérieure exercée par la denture sur la roue conique est notée : $$\torseurstat{T}{ext}{1}=\torseurl{X_e \vect{x_1}+Y_e \vect{y_0}+ Z_e \vect{z_1}}{L_e \vect{x_1}+C_e \vect{y_0}+N_e \vect{z_1}}{O}.$$
+L'action mécanique extérieure exercée par la denture sur la roue conique est notée : $$\torseurstat{T}{\text{ext}}{1}=\torseurl{X_e \vect{x_1}+Y_e \vect{y_0}+ Z_e \vect{z_1}}{L_e \vect{x_1}+C_e \vect{y_0}+N_e \vect{z_1}}{O}.$$
 
 L'action mécanique exercée dans la liaison pivot parfaite par le bâti 0 est notée : $$\torseurstat{T}{0}{1}=\torseurl{X_0 \vect{x_1}+Y_0 \vect{y_0}+ Z_0 \vect{z_1}}{L_0 \vect{x_1}+ N_0\vect{z_1}}{O}.$$
 
@@ -209,8 +209,8 @@ On se place donc en régime permanent ($\dot{\omega}=0$) à la fréquence angula
 \item $
 \left\{ \begin{array}{l}
 X_0 + X_e = - m a \dot{\theta}^2 \\
-Y_0 + Y_e = - m a \ddot{\theta} \\
-Z_0 + Z_e = 0 \\
+Y_0 + Y_e = 0 \\
+Z_0 + Z_e = - m a \ddot{\theta} \\
 \end{array}
 \right.
 \quad
